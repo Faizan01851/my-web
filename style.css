@@ -112,7 +112,6 @@ nav{
     cursor: pointer;
     align-items: center;
     padding: 1rem;
-    padding-bottom: 2rem;
     background-color: whitesmoke;
 }
 .nav-logo img{
@@ -529,6 +528,7 @@ footer .toe a:hover{
 
 } 
   
+
 
 
 
