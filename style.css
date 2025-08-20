@@ -97,8 +97,10 @@ h3{
 nav{
     position: fixed;
     width: 100%;
+    top: 6px;
+    left: 0px;
     isolation: isolate;
-    z-index: 9;
+    z-index: 1000;
 }
  .nav-header{
     width: 100%;
@@ -527,3 +529,4 @@ footer .toe a:hover{
 
 } 
   
+
